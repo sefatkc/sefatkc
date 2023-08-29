@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Django Rest Framemwork**
+- 🌱 I’m currently learning **Django Rest Framework**
 
 - 💬 Ask me about **Django**
 
